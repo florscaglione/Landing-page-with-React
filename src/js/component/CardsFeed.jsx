@@ -4,7 +4,7 @@ import React from "react";
 //create your third component
 const Card = () => {
 	return (
-		<div className="card-group container-fluid">
+		<div className="card-group container-fluid mb-4">
 			<div className="card border m-4 rounded">
 				<img
 					src="http://placekitten.com/g/200/300"

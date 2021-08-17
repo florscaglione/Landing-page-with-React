@@ -5,7 +5,7 @@ import React from "react";
 const Jumbo = () => {
 	return (
 		<div className="p-2 m-3">
-			<div className="jumbotron mx-3 mt-4">
+			<div className="jumbotron mx-3 mt-4 mb-0">
 				<h1 className="display-4">A Warm Welcome!</h1>
 				<p>
 					It uses utility classes for typography and spacing to space
